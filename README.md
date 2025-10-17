@@ -83,7 +83,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Credits
 
-- **Author**: TacticalCatboy (Scarlett)
+- **Author**: Tacticalcatboy (Scarlett)
 - Template from [rr-mod-template](https://github.com/mricher-git/rr-mod-template)
 
 ## Support
