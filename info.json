@@ -1,0 +1,10 @@
+{
+	"Id": "RollingStockStore",
+	"Version": "1.0.0",
+	"DisplayName": "Rolling Stock Store",
+	"Author": "Scarlett",
+	"EntryMethod": "RollingStockStore.UMM.Loader.Load",
+	"ManagerVersion": "0.27.12",
+	"HomePage": "",
+	"Repository": ""
+}
